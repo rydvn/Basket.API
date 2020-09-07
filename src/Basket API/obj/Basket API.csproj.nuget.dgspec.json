@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ridvan.eyyupkoca/Codes/Test/Basket.API/src/Basket API/Basket API.csproj": {}
+    "/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/Basket API.csproj": {}
   },
   "projects": {
-    "/Users/ridvan.eyyupkoca/Codes/Test/Basket.API/src/Basket API/Basket API.csproj": {
+    "/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/Basket API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ridvan.eyyupkoca/Codes/Test/Basket.API/src/Basket API/Basket API.csproj",
+        "projectUniqueName": "/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/Basket API.csproj",
         "projectName": "Basket API",
-        "projectPath": "/Users/ridvan.eyyupkoca/Codes/Test/Basket.API/src/Basket API/Basket API.csproj",
+        "projectPath": "/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/Basket API.csproj",
         "packagesPath": "/Users/ridvan.eyyupkoca/.nuget/packages/",
-        "outputPath": "/Users/ridvan.eyyupkoca/Codes/Test/Basket.API/src/Basket API/obj/",
+        "outputPath": "/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

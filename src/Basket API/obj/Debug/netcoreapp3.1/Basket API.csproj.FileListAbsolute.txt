@@ -60,3 +60,65 @@
 /Users/ridvan.eyyupkoca/Codes/Test/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.csproj.CopyComplete
 /Users/ridvan.eyyupkoca/Codes/Test/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.dll
 /Users/ridvan.eyyupkoca/Codes/Test/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.pdb
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Basket API
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/nlog.config
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Basket API.deps.json
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Basket API.runtimeconfig.json
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Basket API.runtimeconfig.dev.json
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Basket API.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Basket API.pdb
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/CorrelationId.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/DnsClient.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.StackExchangeRedis.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/MongoDB.Libmongocrypt.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/NLog.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/NLog.Extensions.Logging.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/NLog.Web.AspNetCore.Targets.Gelf.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Pipelines.Sockets.Unofficial.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Polly.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Scrutor.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/SharpCompress.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/StackExchange.Redis.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Annotations.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Filters.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/runtimes/win/native/libzstd.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy32.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy64.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.csprojAssemblyReference.cache
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/staticwebassets/Basket API.StaticWebAssets.Manifest.cache
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/staticwebassets/Basket API.StaticWebAssets.xml
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.MvcApplicationPartsAssemblyInfo.cs
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.MvcApplicationPartsAssemblyInfo.cache
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.AssemblyInfoInputs.cache
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.AssemblyInfo.cs
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.RazorTargetAssemblyInfo.cache
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.csproj.CopyComplete
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.dll
+/Users/ridvan.eyyupkoca/Codes/rydvan/Basket.API/src/Basket API/obj/Debug/netcoreapp3.1/Basket API.pdb
