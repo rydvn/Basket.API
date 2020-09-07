@@ -1,0 +1,51 @@
+# Default values for api-basket.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+replicaCount: 1
+
+image:
+  repository: containerrepository.azurecr.io/api-basket
+  tag: 01-staging
+  pullPolicy: IfNotPresent
+
+nameOverride: ""
+fullnameOverride: ""
+
+service:
+  type: ClusterIP
+  port: 80
+
+ingress:
+  enabled: true
+  annotations: {
+    kubernetes.io/ingress.class: "nginx",
+    nginx.ingress.kubernetes.io/rewrite-target: /$1
+  }
+  path: /api-basket/?(.*)
+  hosts:
+    - apis.staging.*.com
+  tls: []
+  #  - secretName: chart-example-tls
+  #    hosts:
+  #      - chart-example.local
+
+hpa:
+  enabled: true
+  minReplicas: 1
+  maxReplicas: 1
+  targetCPUUtilizationPercentage: 70
+
+resources: 
+  limits:
+   cpu: 150m
+   memory: 128Mi
+  requests:
+   cpu: 150m
+   memory: 128Mi
+
+nodeSelector: {}
+
+tolerations: []
+
+affinity: {}
